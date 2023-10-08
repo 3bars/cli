@@ -1,0 +1,1 @@
+alias bastion='ssh -i ~/.ssh/FMPRZ-GeneralRemoteAccess-2022.pem ubuntu@bastion.findmyprofession.com'
